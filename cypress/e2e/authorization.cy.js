@@ -10,5 +10,6 @@ import user from '../fixtures/user.json'
  it('Verify login helper', {retries: 2}, () => {
    authorizationPage.visit();
    authorizationPage.submitLoginForm(user.email, user.password);
+   fddf
  })
  
