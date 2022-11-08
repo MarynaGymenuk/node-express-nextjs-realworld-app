@@ -1,0 +1,21 @@
+{
+    "article": {
+        "slug": "dfdfds-nmopv3",
+        "title": "news",
+        "description": "DESCRIPTION",
+        "body": "This is article's body",
+        "createdAt": "2022-11-07T22:50:09.519Z",
+        "updatedAt": "2022-11-07T22:50:09.519Z",
+        "tagList": [
+            "my tag"
+        ],
+        "favorited": false,
+        "favoritesCount": 0,
+        "author": {
+            "username": "marina",
+            "bio": null,
+            "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+            "following": false
+        }
+    }
+}

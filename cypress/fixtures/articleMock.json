@@ -1,0 +1,24 @@
+{
+    "articles": [
+        {
+            "slug": "",
+            "title": "",
+            "description": "",
+            "body": "",
+            "createdAt": "",
+            "updatedAt": "",
+            "tagList": [
+                ""
+            ],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "marina",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        }
+    ],
+    "articlesCount": 1
+}
